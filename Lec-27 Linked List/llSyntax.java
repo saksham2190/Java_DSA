@@ -9,6 +9,6 @@ class llSyntax{
         }
     }
     public static void main(String[] args) {
-        ll list = new ll();
+        //ll list = new ll();
     }
 }
