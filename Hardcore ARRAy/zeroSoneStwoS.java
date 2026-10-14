@@ -42,5 +42,6 @@ public class zeroSoneStwoS{
         int arr [] = {0, 1, 1, 0, 1, 2, 1, 2, 0, 0, 0};
         sortedArray(arr);
         System.out.println(Arrays.toString(arr));
+        
     }
 }
